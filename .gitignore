@@ -1,0 +1,4 @@
+/denv
+/build/
+.gocache/
+/release/
